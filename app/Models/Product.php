@@ -10,7 +10,7 @@ class Product extends Model
     use HasFactory;
 	
 	/**
-     * Indicates if the model should be timestamped.
+     * Indicates if the model should be timestamped. New Branch Test
      *
      * @var bool
      */
